@@ -1,6 +1,4 @@
 
-https://user-images.githubusercontent.com/16859648/117752138-d7a16480-b248-11eb-8ecf-e005b6569016.mp4
-
 # Employee Directory
 
 ## User Story
