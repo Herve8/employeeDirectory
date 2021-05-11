@@ -20,3 +20,5 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 https://user-images.githubusercontent.com/16859648/117752172-e720ad80-b248-11eb-9039-618a9c0a2e07.mp4
 
+## Github url: 
+https://github.com/Herve8/employeeDirectory
